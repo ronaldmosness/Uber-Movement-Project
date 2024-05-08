@@ -1,0 +1,4 @@
+sourceid,dstid,month,mean_travel_time,standard_deviation_travel_time,geometric_mean_travel_time,geometric_standard_deviation_travel_time
+1,76,01,1118.77,310.77,1080.84,1.29
+1,76,03,1169.88,335.55,1128.02,1.3
+1,76,02,1175.35,324.83,1133.58,1.31

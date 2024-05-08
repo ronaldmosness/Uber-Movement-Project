@@ -1,0 +1,2 @@
+sourceid,dstid,ttmin,ttmean,ttmax,ttnfp,idxbf,idxtm,tmbf,tmplan,p_pm,p_pm_lwr,p_pm_upr,p_am,p_am_lwr,p_am_upr,p_wd,p_wd_lwr,p_wd_upr,p_we,p_we_lwr,p_we_upr
+1,76,932.3,1131.06,1355.69,1292.57,0.14,1.39,161.5,1292.57,1269.13,1129.25,1414.76,1326.45,1180.51,1467.59,1165.76,1025.29,1310.15,1094.2,953.44,1235.54
